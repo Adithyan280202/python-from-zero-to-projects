@@ -40,3 +40,4 @@ print(f"Multiplication : {multiplication}")
 print(f"Division       : {division}")
 
 print("\nThank you for using the calculator!")
+22
